@@ -30,7 +30,7 @@ describe('test server', () => {
         expect(response.status).toEqual(403)
         // expect(response.body.password).toEqual('1993');
       })
-      it('to test if its fails to log in with wrong password in th signing in', async () => {
+      it('to test if its fails to log in with wrong password in the signing in', async () => {
         const user = base64.encode("reem:193");
         const response = await request.post('/signin').set('Authorization', `Basic ${user}`)
         expect(response.status).toEqual(403)
