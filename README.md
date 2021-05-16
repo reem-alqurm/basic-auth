@@ -1,11 +1,11 @@
 # Heroku :
-[Herouko](https://reem-api-server.herokuapp.com/food)
-[Herouko](https://reem-api-server.herokuapp.com/clothes)
+[Herouko](https://reem-basic-auth.herokuapp.com/signup)
+[Herouko](https://reem-basic-auth.herokuapp.com/signin)
 
 # Github :
 [Github](https://github.com/reem-alqurm/basic-auth)
 # pull request :
-[Pull Request](https://github.com/reem-alqurm/api-server/pulls?q=is%3Apr+is%3Aclosed)
+[Pull Request](https://github.com/reem-alqurm/basic-auth/pulls?q=is%3Apr+is%3Aclosed)
 # Github actions :
 [Github Actions](https://github.com/reem-alqurm/basic-auth/actions)
 
