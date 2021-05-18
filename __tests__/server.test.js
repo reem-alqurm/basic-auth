@@ -14,7 +14,7 @@ describe('test server', () => {
             username : 'reem',
             password : '1993'
         });
-        expect(response.status).toEqual(200)
+        expect(response.status).toEqual(201)
         expect(response.body.username).toEqual('reem');
         // expect(response.body.password).toEqual('1993');
       })
